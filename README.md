@@ -25,7 +25,7 @@
     -   HQ Guilds
     -   HQ Friends
     -   Gift codes
--   Browser data
+-   Browser data 
     -   Cookies
     -   Passwords
     -   History
