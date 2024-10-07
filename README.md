@@ -17,7 +17,7 @@
 ## Features
 
 -   Discord token info 
-    -   Nitro
+    -   Nitro 
     -   Badges 
     -   Billing
     -   Email
