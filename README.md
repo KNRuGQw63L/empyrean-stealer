@@ -45,7 +45,7 @@
 
     -   Check if being run in a virustotal sandbox
 
--   Startup persistence
+-   Startup persistence 
     -   Place stub in appdata
     -   Add to startup registry
 
