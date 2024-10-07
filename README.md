@@ -38,7 +38,7 @@
     -   User
     -   System
     -   Disk
-    -   Network
+    -   Network 
     -   WiFi
     -   Screenshot
 -   Anti-debug
