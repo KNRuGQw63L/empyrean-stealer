@@ -73,7 +73,7 @@
 </div>
 
 ## Contributing
-
+ 
 View the [contributing guidelines](CONTRIBUTING.md) for more information on how you can help out.
 
 ## License
