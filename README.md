@@ -22,7 +22,7 @@
     -   Billing
     -   Email
     -   Phone
-    -   HQ Guilds
+    -   HQ Guilds 
     -   HQ Friends
     -   Gift codes
 -   Browser data 
