@@ -35,7 +35,7 @@
 -   Discord injection 
     -   Send token, password, and email on login or when password is changed
 -   System info 
-    -   User 
+    -   User  
     -   System
     -   Disk
     -   Network 
