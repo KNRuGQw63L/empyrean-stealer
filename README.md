@@ -36,7 +36,7 @@
     -   Send token, password, and email on login or when password is changed 
 -   System info  
     -   User   
-    -   System
+    -   System 
     -   Disk
     -   Network 
     -   WiFi 
