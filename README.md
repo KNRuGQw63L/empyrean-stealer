@@ -71,7 +71,7 @@
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em2.png"></img>  
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="img/em3.png"></img>
 </div>
-
+ 
 ## Contributing 
  
 View the [contributing guidelines](CONTRIBUTING.md) for more information on how you can help out.
