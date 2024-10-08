@@ -24,7 +24,7 @@
     -   Phone 
     -   HQ Guilds 
     -   HQ Friends
-    -   Gift codes
+    -   Gift codes 
 -   Browser data 
     -   Cookies 
     -   Passwords
