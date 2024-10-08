@@ -39,7 +39,7 @@
     -   System
     -   Disk
     -   Network 
-    -   WiFi
+    -   WiFi 
     -   Screenshot
 -   Anti-debug
   
