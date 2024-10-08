@@ -19,7 +19,7 @@
 -   Discord token info 
     -   Nitro 
     -   Badges  
-    -   Billing
+    -   Billing 
     -   Email
     -   Phone 
     -   HQ Guilds 
