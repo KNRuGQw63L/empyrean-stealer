@@ -21,7 +21,7 @@
     -   Badges 
     -   Billing
     -   Email
-    -   Phone
+    -   Phone 
     -   HQ Guilds 
     -   HQ Friends
     -   Gift codes
