@@ -80,7 +80,7 @@ View the [contributing guidelines](CONTRIBUTING.md) for more information on how 
 
 Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a>. 
 
-## Errors?
+## Errors? 
 
 -   Make an [issue](https://github.com/addi00000/empyrean/issues) 
 -   Join the [Telegram](https://t.me/w0vtRXIF4W) 
