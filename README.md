@@ -49,7 +49,7 @@
     -   Place stub in appdata
     -   Add to startup registry
 
-## Install
+## Install 
 
 ### Prerequisites
 
