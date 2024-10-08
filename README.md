@@ -50,7 +50,7 @@
     -   Add to startup registry
 
 ## Install 
-
+ 
 ### Prerequisites
 
 -   Windows 10/11 
