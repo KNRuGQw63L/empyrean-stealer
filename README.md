@@ -75,7 +75,7 @@
 ## Contributing
  
 View the [contributing guidelines](CONTRIBUTING.md) for more information on how you can help out.
- 
+  
 ## License
 
 Empyrean is licensed under the <a href="https://mit-license.org/">MIT License</a>. 
