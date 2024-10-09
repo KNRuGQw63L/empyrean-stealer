@@ -57,7 +57,7 @@
 -   [Python](https://www.python.org/downloads/release/python-3109/)
   
 ### Setup
- 
+  
 1. Download source code zip
 2. Extract zip
 3. Run the builder by double clicking the `build.bat` file
