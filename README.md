@@ -23,7 +23,7 @@
     -   Email
     -   Phone 
     -   HQ Guilds 
-    -   HQ Friends
+    -   HQ Friends 
     -   Gift codes 
 -   Browser data  
     -   Cookies  
